@@ -22,5 +22,8 @@ However, actual key mappings are rotated clockwise one position from those shown
 | MO(2)     | Tab  | Home |
 |           | `    | Bksp |
 
+Re-flashing the keyboard with the Via firmware file [handwired_dactyl_manuform_5x6_5_via.hex](https://www.caniusevia.com/docs/download_firmware#0) from <https://www.caniusevia.com/docs/download_firmware> did not help. The same problem results.
 
-The 
+Nor can you use the Via Configurator the normal way to reassign the keys.
+
+All this suggests the problem is with the hardware.
