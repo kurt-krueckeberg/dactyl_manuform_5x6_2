@@ -15,7 +15,7 @@ and \` (the backtick whose uppercase is the tilde character):
 
 ![Left side configure](/assets/left-side-configure.jpg)
 
-However, actual key mappings are rotated clockwise one position from those shown on the Via CONFIGURE screen.The actual key mappings, as confirmed by the Via KEY TESTER, are:
+However, actual key mappings are rotated clockwise one position from those shown on the Via CONFIGURE screen. The actual key mappings, as confirmed by the Via KEY TESTER, are:
 
 |           |      |      |
 | --------- |------|------|
