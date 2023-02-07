@@ -17,7 +17,7 @@ and \` (the backtick whose uppercase is the tilde character):
 
 However the actual settings are:
 
-| left-most |      |      |
+|           |      |      |
 | --------- |------|------|
 | MO(2)     | Tab  | `    |
 |           |||
