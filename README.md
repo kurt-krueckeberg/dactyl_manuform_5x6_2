@@ -13,4 +13,4 @@ Four (of the five) left-hand side thumb keys do not work correctly. Their key ma
 Via CONFIGURE shows these mappings for the cluster of the four thumb keys that are `Home`, `End`, `Bksp` 
 and \`:
 
-![/assets/left-side-configure.jpg]
+![Left side configure](/assets/left-side-configure.jpg)
