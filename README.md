@@ -1,6 +1,6 @@
 # viaqmk\_firmware\_files
 
-## Description of CustomErgoBoards `Dactyl/Manuform 5x6 2` Keyboard Problem
+## Description of  `Dactyl/Manuform 5x6 2` Keyboard Problem
 
 Four (of the five) left-hand side thumb keys do not work correctly. Their key mappings are wrong. Tehy differ from those displayed by the Via Configurator.
 
