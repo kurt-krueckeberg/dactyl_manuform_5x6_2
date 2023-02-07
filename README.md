@@ -11,6 +11,6 @@
 Four (of the five) left-hand side thumb keys do not work correctly. Their key mappings are wrong. The actual key mappings do not match those shown by the Via application's keymap Configurator. 
 
 Via CONFIGURE shows these mappings for the cluster of the four thumb keys that are `Home`, `End`, `Bksp` 
-and \`:
+and \`(the backtick whose uppercase is the tilde character):
 
 ![Left side configure](/assets/left-side-configure.jpg)
