@@ -19,5 +19,5 @@ However the actual settings are:
 
 |           |      |      |
 | --------- |------|------|
-| MO(2)     | Tab  | `    |
-|           |||
+| MO(2)     | Tab  | Home |
+|           | `    | Bksp |
