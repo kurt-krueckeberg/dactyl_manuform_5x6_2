@@ -14,3 +14,10 @@ Via CONFIGURE shows these mappings for the cluster of the four thumb keys that a
 and \` (the backtick whose uppercase is the tilde character):
 
 ![Left side configure](/assets/left-side-configure.jpg)
+
+However the actual settings are:
+
+| left-most |      |      |
+| --------- |------|------|
+| MO(2)     | Tab  | `    |
+|           |||
