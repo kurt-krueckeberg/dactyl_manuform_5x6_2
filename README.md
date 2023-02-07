@@ -1,8 +1,10 @@
 # viaqmk\_firmware\_files
 
-## Description of Keyboard Problem
+## Description of CustomErgoBoards `Dactyl/Manuform 5x6 2` Keyboard Problem
 
-Four (of the five) left-hand side thumb keys do not work correctly. Their key mappings are wrong. The actual key mappings do not match those shown by the Via application's Configurator. 
+Four (of the five) left-hand side thumb keys do not work correctly. Their key mappings are wrong. Tehy differ from those displayed by the Via Configurator.
+
+The actual key mappings do not match those shown by the Via application's Configurator. 
 
 Via CONFIGURE shows these mappings for the cluster of the four thumb keys that are `Home`, `End`, `Bksp` 
 and \` (the backtick whose uppercase is the tilde character):
@@ -16,11 +18,10 @@ However, actual key mappings are rotated clockwise one position from those shown
 | MO(2)     | Tab  | Home |
 |           | `    | Bksp |
 
-Re-flashing the keyboard with the Via firmware file [handwired_dactyl_manuform_5x6_5_via.hex](https://www.caniusevia.com/docs/download_firmware#0) from <https://www.caniusevia.com/docs/download_firmware> did not help. The same problem results.
+Re-flashing the keyboard with the Via firmware file [handwired_dactyl_manuform_5x6_5_via.hex](https://www.caniusevia.com/docs/download_firmware#0) from <https://www.caniusevia.com/docs/download_firmware> did not help.
+The problem persists.
 
-Nor can you use the Via Configurator in the normal way to reassign the keys.
-
-All this suggests there is a problem with the hardware.
+Nor can you use the Via Configurator to reassign the keys. This suggests there is a problem with the hardware--unless, perhaps, custom firmware czn be provided by the seller that fixes this issue.
 
 ## Description of Files in This Repository
 
