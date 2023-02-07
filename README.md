@@ -26,4 +26,4 @@ Re-flashing the keyboard with the Via firmware file [handwired_dactyl_manuform_5
 
 Nor can you use the Via Configurator in the normal way to reassign the keys.
 
-All this suggests the problem is with the hardware.
+All this suggests there is a problem with the hardware.
