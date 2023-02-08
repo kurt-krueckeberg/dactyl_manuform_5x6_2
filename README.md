@@ -1,23 +1,15 @@
-# Description of  `Dactyl/Manuform 5x6 2` Keyboard Via Problem
+# Table of Contents
 
-Four (of the five) left-hand side thumb keys do not work correctly. Their key mappings are wrong. They differ from those displayed by the Via Configurator.
+## General Comments
 
-Via CONFIGURE shows these mappings for the cluster of the four thumb keys that are `Home`, `End`, `Bksp` 
-and \` (the backtick whose uppercase is the tilde character):
+* Dactyl thumb Cluster [pros and cons](https://www.reddit.com/r/ErgoMechKeyboards/comments/ns7yli/dactyl_manuform_thumb_cluster/)a
+* Thoughts on [dactyls](https://news.ycombinator.com/item?id=24012379)
 
-![Left side configure](/assets/left-side-configure.jpg)
+## Maagazine
 
-However, actual key mappings are rotated clockwise one position from those shown on the Via CONFIGURE screen. The actual key mappings, as confirmed by the Via KEY TESTER, are:
+[keyboard builder's digest](https://kbd.news/)
 
-|           |      |      |
-| --------- |------|------|
-| MO(2)     | Tab  | Home |
-|           | `    | Bksp |
+## Building Howtos
 
-Re-flashing the keyboard with the Via firmware file [handwired_dactyl_manuform_5x6_5_via.hex](https://www.caniusevia.com/docs/download_firmware#0) from <https://www.caniusevia.com/docs/download_firmware> did not help. The problem persists. Nor can you use the Via Configurator to reassign the keys.
+<https://github.com/aleung/mini-thumb-dactyl-keyboard>
 
-## Description of Files in This Repository
-
-* `handwired_dactyl_manuform_5x6_5_via.hex` is the Via firmware file [handwired_dactyl_manuform_5x6_5_via.hex](https://www.caniusevia.com/docs/download_firmware#0) from <https://www.caniusevia.com/docs/download_firmware>
-
-* `handwired_dactyl_manuform_5x6_default_kb2040.uf2` is the firmware file from the keyboard seller  [CustomErgoBoards](https://www.etsy.com/shop/CustomErgoBoards) on Etsy. It is the original firmware that came with the jeyboard.
