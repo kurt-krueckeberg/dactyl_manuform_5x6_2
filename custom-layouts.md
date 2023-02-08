@@ -4,6 +4,7 @@
 
 Left thumb:
 
+|||
 |-----|----|
 |Del|Bksp|
 |OneShot(Nav layer)|mod_tap(ctrl, tab)|
