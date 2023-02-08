@@ -2,7 +2,7 @@
 
 ## General Comments
 
-* Dactyl thumb Cluster [pros and cons](https://www.reddit.com/r/ErgoMechKeyboards/comments/ns7yli/dactyl_manuform_thumb_cluster/)a
+* Dactyl thumb Cluster [pros and cons](https://www.reddit.com/r/ErgoMechKeyboards/comments/ns7yli/dactyl_manuform_thumb_cluster/)
 * Thoughts on [dactyls](https://news.ycombinator.com/item?id=24012379)
 
 ## Magazine
