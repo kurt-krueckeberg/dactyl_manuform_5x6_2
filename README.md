@@ -5,9 +5,9 @@
 * Dactyl thumb Cluster [pros and cons](https://www.reddit.com/r/ErgoMechKeyboards/comments/ns7yli/dactyl_manuform_thumb_cluster/)a
 * Thoughts on [dactyls](https://news.ycombinator.com/item?id=24012379)
 
-## Maagazine
+## Magazine
 
-[keyboard builder's digest](https://kbd.news/)
+[Keyboard Builder's Kigest](https://kbd.news/)
 
 ## Building Howtos
 
