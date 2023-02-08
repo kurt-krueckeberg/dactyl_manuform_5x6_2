@@ -20,7 +20,7 @@ On the left hand, I hold the OS(Nav) and have arrows on ESDF (Qwerty). On the ri
 other than the ones on the shifted num row, but I do put parens on the Punct layer. I also have Nav pointing at Punct and Punct pointing at Nav under the OS key,
 so I can tap-and-hold the keys to get to the other layer.
 
-## Custom 2
+## Thumb as Shift
 
 I can't recommend thumb Shift enough. The primary purpose of Shift is to be used in chords to produce other typing symbols. Your thumb is far and away the best
 finger for chording, because it's opposable, which means you can hold down the thumb without restricting the movement of your other fingers in any way whatsoever.
