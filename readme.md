@@ -9,7 +9,7 @@
 
 [Keyboard Builder's Kigest](https://kbd.news/)
 
-## Building Howtos
+## Howtos
 
-<https://github.com/aleung/mini-thumb-dactyl-keyboard>
-
+* [Building Dactyl Mini](https://github.com/aleung/mini-thumb-dactyl-keyboard)
+* [Customizing Keyboard Layout for Linux with QMK](https://docs.taikohub.com/customizing-keyboard-layout-for-linux-with-qmk)
