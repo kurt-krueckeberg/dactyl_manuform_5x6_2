@@ -22,9 +22,9 @@ so I can tap-and-hold the keys to get to the other layer.
 
 ## Thumb as Shift
 
-I can't recommend thumb Shift enough. The primary purpose of Shift is to be used in chords to produce other typing symbols. Your thumb is far and away the best
-finger for chording, because it's opposable, which means you can hold down the thumb without restricting the movement of your other fingers in any way whatsoever.
-Shift is probably the most frequently-used chording modifier, so it behooves you to place this in the most comfortable position possible.
+I can't recommend **thumb as Shift key** enough. The primary purpose of Shift is to be used in chords to produce other typing symbols. Shift is probably the most
+frequently-used chording modifier. Your thumb is far and away the best finger for chording, because it's opposable, which means you can hold down the thumb without
+restricting the movement of your other fingers in any way whatsoever.
 
 > Since this is my first split, I want something as close to a qwerty.
 
