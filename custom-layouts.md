@@ -26,7 +26,7 @@ I can't recommend thumb Shift enough. The primary purpose of Shift is to be used
 finger for chording, because it's opposable, which means you can hold down the thumb without restricting the movement of your other fingers in any way whatsoever.
 Shift is probably the most frequently-used chording modifier, so it behooves you to place this in the most comfortable position possible.
 
-Since this is my first split, I want something as close to a qwerty.
+> Since this is my first split, I want something as close to a qwerty.
 
 And that is a mistake. Why did you buy a keyboard that could be so much better than a standard keyboard, and then try to force it into the shape of a standard keyboard?
 
