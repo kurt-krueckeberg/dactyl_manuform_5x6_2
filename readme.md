@@ -7,7 +7,7 @@
 
 ## Magazine
 
-[Keyboard Builder's Kigest](https://kbd.news/)
+[Keyboard Builder's Digest](https://kbd.news/)
 
 ## Howtos
 
